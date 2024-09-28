@@ -13,3 +13,7 @@ Faster Movement: Shiftkey
 Shoot: Space
 
 Interact: E
+
+
+
+Aura: 10000
